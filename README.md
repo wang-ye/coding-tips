@@ -1,2 +1,2 @@
-# python-tips
-Useful Python Tips
+# coding-tips
+Useful Coding Tips
